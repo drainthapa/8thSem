@@ -1,0 +1,51 @@
+baseURL = "https://csitauthority.github.io/8thSem"
+languageCode = "en-US"
+defaultContentLanguage = "en"
+publishDir="docs"
+title = "Hugo Learn Documentation"
+theme = "learn"
+themesdir = "theme/"
+metaDataFormat = "yaml"
+defaultContentLanguageInSubdir= true
+
+
+[params]
+  editURL = "https://github.com/csitauthority/8thSem/edit/master/content/"
+  description = "8th Semester Contents for BSc. CSIT"
+  author = "CSITauthority"
+  showVisitedLinks = true
+  #disableLanguageSwitchingButton = true
+
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
+
+[Languages]
+[Languages.en]
+title = "CSITauthority 8th Sem"
+weight = 1
+languageName = "English"
+
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fa fa-home'></i> Homepage"
+url = "../.."
+weight = 20
+
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fa fa-bullhorn'></i> Credits"
+url = "credits"
+weight = 30
+
+[Languages.np]
+title = "CSITauthority 8th Sem"
+weight = 2
+languageName = "नेपाली"
+
+[[Languages.np.menu.shortcuts]]
+name = "<i class='fa fa-home'></i> Homepage"
+url = "../.."
+weight = 20
+
+[[Languages.np.menu.shortcuts]]
+name = "<i class='fa fa-bullhorn'></i> Credits"
+url = "credits"
+weight = 30

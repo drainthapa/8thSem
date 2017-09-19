@@ -1,0 +1,50 @@
+[
+{
+	"uri": "https://csitauthority.github.io/8thSem/en/questions/tu-old-questions/",
+	"title": "TU Old Questions",
+	"tags": [],
+	"description": "",
+	"content": "\r\rFiles\r\r\rCSC451 - Data Warehousing and Data Mining - 2069.jpg\r\r(34 KB)\r\r\rCSC451 - Data Warehousing and Data Mining - 2071(I).jpg\r\r(38 KB)\r\r\rCSC451 - Data Warehousing and Data Mining - 2071(II).jpg\r\r(71 KB)\r\r\rCSC453 - Advanced Networking with IPv6 - 2069.jpg\r\r(29 KB)\r\r\rCSC453 - Advanced Networking with IPv6 - 2071.jpg\r\r(34 KB)\r\r\rCSC457 - Distributed and Object Oriented Database - 2071(II).jpg\r\r(82 KB)\r\r\rCSC458 - Cloud Computing - 2069.jpg\r\r(31 KB)\r\r\rCSC458 - Cloud Computing - 2071.jpg\r\r(43 KB)\r\r\rCSC459 - Geographical Information System - 2069.jpg\r\r(30 KB)\r\r\rCSC459 - Geographical Information System - 2071.jpg\r\r(42 KB)\r\r\rCSC459 - Geographical Information System - 2071.zip\r\r(42 KB)\r\r\r\r\r\rPDF\r\r\rCSC458 - Cloud Computing - 2069-71.pdf\r\r(330 KB)\r\r\r\rFiles are bundled and zipped only when collections are complete\n\r This is YOUR website. The best way to start adding content is by clicking the \u0026nbsp;Edit this page button on the top-right corner of this webpage. Feel free to come knocking incase of any issues.\n "
+},
+{
+	"uri": "https://csitauthority.github.io/8thSem/en/questions/",
+	"title": "Questions",
+	"tags": [],
+	"description": "",
+	"content": " Section 1 Questions Browse Old-Questions, Model Questions, Sendup Questions and more from the community.\n"
+},
+{
+	"uri": "https://csitauthority.github.io/8thSem/en/",
+	"title": "8th Semester BSc. CSIT",
+	"tags": [],
+	"description": "",
+	"content": " 8th Semester contents for BSc. CSIT \u0026nbsp;contributors  .ghContributors{\rdisplay:flex;\rflex-flow: wrap;\ralign-content: flex-start\r}\r.ghContributors  div{\rwidth: 50% ;\rdisplay: inline-flex;\rmargin-bottom: 5px;\r}\r.ghContributors  div label{\rpadding-left: 4px ;\r}\r.ghContributors  div span{\rfont-size: x-small;\rpadding-left: 4px ;\r}\r\r\r@csitauthority\r1 commits\r\r  "
+},
+{
+	"uri": "https://csitauthority.github.io/8thSem/en/categories/",
+	"title": "Categories",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://csitauthority.github.io/8thSem/en/credits/",
+	"title": "Credits",
+	"tags": [],
+	"description": "",
+	"content": " Contributors for 8th Sem Thanks to them  for making CSIT community a better place !\n.ghContributors{\rdisplay:flex;\rflex-flow: wrap;\ralign-content: flex-start\r}\r.ghContributors  div{\rwidth: 50% ;\rdisplay: inline-flex;\rmargin-bottom: 5px;\r}\r.ghContributors  div label{\rpadding-left: 4px ;\r}\r.ghContributors  div span{\rfont-size: x-small;\rpadding-left: 4px ;\r}\r\r\r@csitauthority\r1 commits\r\r And a very special thanks to @matcornic for his work on Hugo Theme Learn, a hugo port inspired by Grav Learn Theme. The very first version of content subpages for CSITauthority is based off this commit.\nLogo  Two Strokes - Minimal. Fast. Fluid. Fully Vector Design  Packages and libraries  mermaid - generation of diagram and flowchart from text in a similar manner as markdown font awesome - the iconic font and CSS framework jQuery - The Write Less, Do More, JavaScript Library lunr - Lunr enables you to provide a great search experience without the need for external, server-side, search services\u0026hellip; horsey - Progressive and customizable autocomplete component clipboard.js - copy text to clipboard highlight.js - Javascript syntax highlighter modernizr - A JavaScript toolkit that allows web developers to use new CSS3 and HTML5 features while maintaining a fine level of control over browsers that don\u0026rsquo;t support  Tooling  Hugo Github - Continuous deployment and hosting of this website  "
+},
+{
+	"uri": "https://csitauthority.github.io/8thSem/en/tags/",
+	"title": "Tags",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://csitauthority.github.io/8thSem/en/two-strokes/",
+	"title": "Two Strokes",
+	"tags": [],
+	"description": "",
+	"content": " Minimal. Fast. Robust. The migration from Blogger CMS to Hugo demanded something radical. Following the design language, this is the answer. Two Strokes is completely vector generated with just two strokes and some mathematics!\nWhy does it matter? Well, for starters, its scalable from that to this and, thats not the end of it. It renders fast; no compromises for Hugo. Now, only TU keeps you waiting, not our DOM. The premise of this migration is to define a new standard in serving content through CSITauthority; our logo should keep up.\n"
+}]
