@@ -17,7 +17,7 @@
       
       <guid>https://csitauthority.github.io/8thSem/np/credits/</guid>
       <description>Contributors for 8th Sem Thanks to them  for making CSIT community a better place !
-.ghContributors{display:flex;flex-flow: wrap;align-content: flex-start}.ghContributors  div{width: 50% ;display: inline-flex;margin-bottom: 5px;}.ghContributors  div label{padding-left: 4px ;}.ghContributors  div span{font-size: x-small;padding-left: 4px ;}@csitauthority1 commits And a very special thanks to @matcornic for his work on Hugo Theme Learn, a hugo port inspired by Grav Learn Theme.</description>
+.ghContributors{display:flex;flex-flow: wrap;align-content: flex-start;align-items: top;justify-content: center;}.ghContributors  div{width: 50% ;display: inline-flex;margin-bottom: 0px;vertical-align: text-top;}.ghContributors  div label{padding-left: 4px ;margin-bottom:-10px;}.ghContributors  div span{font-size: x-small;padding-left: 4px ;}@csitauthority1 commits And a very special thanks to @matcornic for his work on Hugo Theme Learn, a hugo port inspired by Grav Learn Theme.</description>
     </item>
     
   </channel>
