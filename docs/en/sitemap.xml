@@ -44,16 +44,10 @@
   
   <url>
     <loc>https://csitauthority.github.io/8thSem/en/credits/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="np"
-                href="https://csitauthority.github.io/8thSem/np/credits/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://csitauthority.github.io/8thSem/en/credits/"
-                />
+  </url>
+  
+  <url>
+    <loc>https://csitauthority.github.io/8thSem/en/how-to-contribute/</loc>
   </url>
   
   <url>

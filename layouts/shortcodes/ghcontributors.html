@@ -25,7 +25,7 @@ padding-left: 4px ;
 </style>
 <div class="ghContributors">
   {{ $url := .Get 0 }}
-  {{ range getJSON $url }}
+  {{ range getJSON "https://api.github.com/repos/csitauthority/8thsem/contributors" }}
     <div style="display:block; width:200px;">
     <img src="{{.avatar_url}}" class="inline" width="200" height="200" style="height: 200px;height: 200px;margin-bottom:.25em; vertical-align:middle; margin: 0 auto; ">
     <label><a href="{{.html_url}}" style="word-wrap: break-word; max-width: 190px;">@{{.login}}</a></label>

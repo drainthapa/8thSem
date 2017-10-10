@@ -35,17 +35,27 @@ name = "<i class='fa fa-bullhorn'></i> Credits"
 url = "credits"
 weight = 30
 
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fa fa-file-text'></i> License"
+url = "https://github.com/csitauthority/8thSem/blob/master/LICENSE"
+weight = 40
+
 [Languages.np]
 title = "CSITauthority 8th Sem"
 weight = 2
 languageName = "नेपाली"
 
 [[Languages.np.menu.shortcuts]]
-name = "<i class='fa fa-home'></i> Homepage"
+name = "<i class='fa fa-home'></i> गृहपृष्ठ"
 url = "../.."
 weight = 20
 
 [[Languages.np.menu.shortcuts]]
-name = "<i class='fa fa-bullhorn'></i> Credits"
-url = "credits"
+name = "<i class='fa fa-bullhorn'></i> श्रेय​"
+url = "../../8thSem/en/credits/"
 weight = 30
+
+[[Languages.np.menu.shortcuts]]
+name = "<i class='fa fa-file-text'></i> अनुमतिपत्र​"
+url = "https://github.com/csitauthority/8thSem/blob/master/LICENSE"
+weight = 40

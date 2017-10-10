@@ -9,7 +9,7 @@ disableToc: true
 
 Thanks to them <i class="fa fa-heart"></i> for making CSIT community a better place !
 
-{{% ghcontributors "https://api.github.com/repos/csitauthority/8thsem/contributors?per_page=100" %}}
+{{% ghcontributors %}}
 
 And a very special thanks to [@matcornic](https://github.com/matcornic) for his work on [Hugo Theme Learn](https://github.com/matcornic/hugo-theme-learn), a hugo port inspired by Grav Learn Theme. The very first version of content subpages for CSITauthority is based off [this commit](https://github.com/matcornic/hugo-theme-learn/tree/0d9c29be674920d36c4015fbeaed871535a0a5e5).
 
