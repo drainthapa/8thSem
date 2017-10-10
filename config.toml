@@ -31,14 +31,19 @@ url = "../.."
 weight = 20
 
 [[Languages.en.menu.shortcuts]]
+name = "<i class='fa fa-code-fork'></i> Contribute"
+url = "how-to-contribute"
+weight = 30
+
+[[Languages.en.menu.shortcuts]]
 name = "<i class='fa fa-bullhorn'></i> Credits"
 url = "credits"
-weight = 30
+weight = 40
 
 [[Languages.en.menu.shortcuts]]
 name = "<i class='fa fa-file-text'></i> License"
 url = "https://github.com/csitauthority/8thSem/blob/master/LICENSE"
-weight = 40
+weight = 50
 
 [Languages.np]
 title = "CSITauthority 8th Sem"
@@ -51,11 +56,16 @@ url = "../.."
 weight = 20
 
 [[Languages.np.menu.shortcuts]]
+name = "<i class='fa fa-code-fork'></i> तपाईको योगदान"
+url = "../en/how-to-contribute"
+weight = 30
+
+[[Languages.np.menu.shortcuts]]
 name = "<i class='fa fa-bullhorn'></i> श्रेय​"
 url = "../../8thSem/en/credits/"
-weight = 30
+weight = 40
 
 [[Languages.np.menu.shortcuts]]
 name = "<i class='fa fa-file-text'></i> अनुमतिपत्र​"
 url = "https://github.com/csitauthority/8thSem/blob/master/LICENSE"
-weight = 40
+weight = 50

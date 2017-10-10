@@ -28,13 +28,15 @@ graph TD;
 1. Determine if the changes you've made is good
 	* A good change is one which does not break the system
 	* The first thing to ensure is that your repo is not _behind_ the master when pushing. Learn to be a commit ahead.
-	* If that seems hard^, then atleast make sure there are no conlicting changes
+	* If that seems hard^, then atleast make sure there are no conficting changes
 	* Ofcourse, we at CSITauthority __do not__ ignore bad commits but, bad commits will take longer to appear on the main website.
-	* _Lastly_, don't sweat the details. If you feel its good, push it. Moderators wont let anything that shouldnt break, break.
+	* _Lastly_, don't sweat the details. If you feel its good, push it. Moderators won't let anything that shouldnt break, break.
 1. Now, if the change your propose is good to go, please commit it one final time then push to your `master`
 1. Then you need to make a pull request from your forked repository.
-1. Once your pull request is submitted, moderators will make sure necessary changes are made. Your contributions are valueable to us.
+1. Once your pull request is submitted, moderators will make sure necessary changes are made. Your contributions are valuable to us.
 1. Expect to see __YOUR__ content soon! You are now an official contributor. *Yes, our website automatically enlists you in the contributor list as long as you have configured your Git-bash properly*
 1. Happy Contributing! and Welcome to the family.
+
+>Still Confused? [We're just a click away](https://m.me/csitauthority)
 
 {{% /expand%}}
