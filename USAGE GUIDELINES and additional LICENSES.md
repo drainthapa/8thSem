@@ -20,13 +20,11 @@ If you do not agree to these terms, please do not send patches or pull
 requests, or commit any material to this repository.
 
 
-
 ## LICENSES FOR INCORPORATED CODEBASES AND CONTENT
 
 Incorporating content from [8thsem](https://github.com/cdrrazan/8thsem),<br/>
 Copyright © 2017 Rajan Bhattarai<br/>
 Licensed MIT<br/>
-
 
 
 Text of MIT License:
@@ -41,3 +39,4 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
+> This document is an addendum to the [primary license](https://github.com/csitauthority/8thSem/blob/master/LICENSE)
