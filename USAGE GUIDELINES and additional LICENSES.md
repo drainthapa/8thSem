@@ -1,5 +1,4 @@
-CONTRIBUTORS AGREE TO FREE/OPEN SOURCE DUAL-LICENSING
-=====================================================
+## CONTRIBUTORS AGREE TO FREE/OPEN SOURCE DUAL-LICENSING
 
 By contributing code or other works of authorship to this project ("Your
 Contributions"), you grant to Siddhant Rimal a perpetual, worldwide,
@@ -22,20 +21,18 @@ requests, or commit any material to this repository.
 
 
 
-LICENSES FOR INCORPORATED CODEBASES AND CONTENT
-===============================================
+## LICENSES FOR INCORPORATED CODEBASES AND CONTENT
 
-Incorporating content from 8thsem,
-https://github.com/cdrrazan/8thsem
-Copyright © 2017 Rajan Bhattarai
-Licensed MIT
+Incorporating content from [8thsem](https://github.com/cdrrazan/8thsem),<br/>
+Copyright © 2017 Rajan Bhattarai<br/>
+Licensed MIT<br/>
 
 
 
 Text of MIT License:
 ====================
 
-Copyright (c) 2017 Siddhant Rimal
+Copyright (c) 2017 Siddhant Rimal<br/>
 Copyright (c) 2017 CSITauthority
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
